@@ -15,3 +15,5 @@ This extension requires the `cursor.generateGitCommitMessage` command to be avai
 1. Make changes
 2. Cmd/Ctrl + Shift + P → "Push Vibes"
 3. Done! ✨
+
+this is a test
