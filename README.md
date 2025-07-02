@@ -17,3 +17,5 @@ This extension requires the `cursor.generateGitCommitMessage` command to be avai
 3. Done! ✨
 
 this is a test
+
+this is another test
