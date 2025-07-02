@@ -8,7 +8,7 @@ Push your vibes to git with one command! Combines staging, AI commit generation,
 
 ## Requirements
 
-This extension requires the `cursor.generateGitCommitMessage` command to be available in your Cursor IDE.
+This extension requires the `cursor.generateGitCommitMessage` command to be available. This is available in Cursor IDE.
 
 ## Usage
 
